@@ -1,1 +1,2 @@
-﻿# MDWiki 测试
+# MDWiki 测试
+A test wiki 

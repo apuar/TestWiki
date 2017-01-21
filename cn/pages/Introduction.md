@@ -1,4 +1,6 @@
-#ZeroNet 是什么?
+#ZeroNet 介绍
+
+##ZeroNet 是什么?
 
 ZeroNet 使用 Bitcoin 加密算法以及 BitTorrent 技术以建立一个**分布式抗审查**的网络.
 
@@ -8,7 +10,7 @@ ZeroNet 使用 Bitcoin 加密算法以及 BitTorrent 技术以建立一个**分�
 
 ZeroNet 带有一个内置的 SQL 数据库. 这让内容很多 (content-heavy) 的站点更容易开发. 这个数据库也会与共享它的节点增量同步.
 
-#为什么要使用?
+##为什么要使用?
 
   * 我们相信开放, 自由, 无审查的网络.
   * 没有审查: 一旦发布就无法删除.
@@ -18,7 +20,7 @@ ZeroNet 带有一个内置的 SQL 数据库. 这让内容很多 (content-heavy) 
   * 离线工作: 即使互联网不可用时也可以访问站点.
   * 安全: 内容所有权 (Content ownership) 是使用和 Bitcoin wallet 相同的加密算法加密的.
 
-#功能
+##功能
 
   * 简单, 无需配置即可运行.
   * 无需密码的基于 BIP32 的认证: 使用和 Bitcoin wallet 相同的加密算法来保护你的账号.
@@ -31,7 +33,7 @@ ZeroNet 带有一个内置的 SQL 数据库. 这让内容很多 (content-heavy) 
   * 多用户 (开放代理) 插件支持.
   * 在任何浏览器/操作系统上工作.
 
-#它是如何工作的?
+##它是如何工作的?
 
   * 在你安装并运行 ZeroNet 后, 浏览以下地址打开一个站点:` http://127.0.0.1:43110/{zeronet_site_address} `(例如` http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D`).
   * ZeroNet 将会使用 BitTorrent 网络来寻找正在做种的节点并且从这些节点下载站点内容 (HTML, CSS, JS...).
@@ -41,12 +43,12 @@ ZeroNet 带有一个内置的 SQL 数据库. 这让内容很多 (content-heavy) 
 
 [有关 ZeroNet 加密, 内容更新, 多用户站点的幻灯片 »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
 
-#目前的不足
+##目前的不足
   * 没有类似于 Torrent 的文件拆分来支持大文件
   * 传输文件时没有压缩~~和加密~~ (已添加 TLS 加密)
   * 不支持私有 (private) 站点
 
-#帮助这个项目
+##帮助这个项目
     Bitcoin: 1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX
 #感谢您!
 更多信息, 帮助, 更改记录, zeronet 站点: [http://www.reddit.com/r/zeronet/](http://www.reddit.com/r/zeronet/)

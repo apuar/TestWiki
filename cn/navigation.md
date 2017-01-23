@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# ZeroNet 导航
+# ZeroNet文档
 
 
 <!--
@@ -19,15 +19,13 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[首页](pages/index.md)
-
-
-[中文论坛](http://127.0.0.1:43110/19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9/)
-
-<!-- A more complex navigation example: ----------------------------------------
-
+[首页](pages/about.md)
 
 [ZeroNet介绍](pages/Introduction.md)
+
+[下载](pages/download.md)
+
+<!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
 

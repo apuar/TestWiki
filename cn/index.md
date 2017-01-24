@@ -42,7 +42,7 @@ Note: 部分网站但因站长长期不活动或者网站长时间未更新，�
 网站 | 介绍
 :---: | ---
 [**ZeroTV**](http://127.0.0.1:43110/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/) | 美剧下载磁力站，作者：[ sirenyc](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/sirenyc@zeroid.bit) 
-[**Play**](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) | 电影下载磁力站，作者：[]()
+[**Play**](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) | 电影下载磁力站
 [**BTSynChina中文资源分享**](http://127.0.0.1:43110/btsynchina.bit/)  | Btsync(Resilio Sync) Key 分享网站，需安装 Btsync 软件
 [**0chan**](http://127.0.0.1:43110/0chan.bit) | ZeroNet 上的图片站
 [**Antilibrary**](http://127.0.0.1:43110/Antilibrary.bit/) | 免费电子书下载站，支持导入 Goodreads 书单 

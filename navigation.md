@@ -3,9 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# ZeroNet 导航
-
-
+# ZeroNet 网址收藏
 <!--
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)

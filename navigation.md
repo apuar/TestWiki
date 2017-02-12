@@ -19,7 +19,7 @@
 
 [首页](index.md)
 
-[中文论坛](http://http://127.0.0.1:43110/NewGFWTalk.bit/)
+[中文论坛](http://127.0.0.1:43110/NewGFWTalk.bit/)
 
 <!-- A more complex navigation example: ----------------------------------------
 
